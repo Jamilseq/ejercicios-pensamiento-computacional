@@ -12,7 +12,7 @@ namespace programa
             resultado = (3 * Math.Pow(x, 2)) + (7 * x) - 15;
             Console.WriteLine("Resultado:{0}", resultado);
             Console.ReadLine();
-
+hoola
         }
     }
 }
